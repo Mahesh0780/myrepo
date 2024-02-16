@@ -3,6 +3,9 @@
 void bubblesort(){
 	//
 }
+void quicksort(){
+	//
+}
 
 int main(){
 	std::cout<<"Hello World!";
